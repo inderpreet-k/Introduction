@@ -1,0 +1,1 @@
+-----This is the app used to manage time, schedule day to day activities-----
